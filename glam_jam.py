@@ -21,6 +21,8 @@ def run_game():
     #Initialisiert das Spiel und erstellt ein screen-Objekt
     pygame.init()
 
+    # Das ist ein Test
+
     # Lädt die Hintergrundmusik
     mixer.music.load("rsc/music.wav")
     mixer.music.set_volume(0.2)
